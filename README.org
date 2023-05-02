@@ -3,14 +3,14 @@ This plugin in *WIP*
 Plugin to add properties sort functionality to nvim-orgmode.
 
 * Roadmap [1/9]
-	- [X] Initialize a repostitory with some basic information about the plugin
+	- [X] Initialize a repository with some basic information about the plugin
 	- [ ] Create a basic plugin structure and expose a command with/without parameters
-	- [ ] Implement addding/removing sorting for search, tags, and todo view
+	- [ ] Implement adding/removing sorting for search, tags, and todo view
 	- [ ] Implement sorting for date properties (ISO, org date, ...)
 	- [ ] Implement sorting for numbers and strings
 	- [ ] Write proper tests
 	- [ ] Update/finalize README documentation with examples
 	- [ ] Add a nix flake to build the plugin
-	- [ ] Implement addding/removing sorting for agenda view
-	- [ ] Combine multiple properties sortings
+	- [ ] Implement adding/removing sorting for agenda view
+	- [ ] Combine multiple properties sorting
 
